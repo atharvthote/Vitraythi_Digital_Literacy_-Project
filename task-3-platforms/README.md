@@ -2,7 +2,7 @@
 This task focuses on exploring coding and collaboration platforms.
 
 ## 🔹 Coding Platform
-I used HackerRank to solve a beginner-level problem titled "Solve Me First". This helped me understand basic programming concepts and improve my problem-solving skills.
+I used HackerRank to solve a beginner-level problem titled "Python Introduction". This helped me understand basic programming concepts and improve my problem-solving skills.
 
 ## 🔹 Google Form
 I created a Google Form titled "Digital Literacy Awareness Quiz" consisting of 5 questions, including multiple-choice and short-answer types. The form is designed to test basic knowledge of digital literacy among students.
